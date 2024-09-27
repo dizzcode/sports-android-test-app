@@ -58,6 +58,7 @@ import dizzcode.com.sports.ui.theme.SportsTheme
  * Main composable that serves as container
  * which displays content according to [uiState] and [windowSize]
  */
+@Preview(showSystemUi = true)
 @Composable
 fun SportsApp(
 ) {
@@ -337,7 +338,7 @@ fun SportsListItemPreview() {
     }
 }
 
-@Preview(showSystemUi = true)
+
 @Composable
 fun SportsListPreview() {
     SportsTheme {
