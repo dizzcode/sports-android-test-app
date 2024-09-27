@@ -7,7 +7,8 @@
 - Adaptive content layout
 
 ##
-## View
+### View
+##
 
 <img 
 src="https://github.com/dizzcode/sports-android-test-app/blob/main/screenshots/img.png" 
