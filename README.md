@@ -9,4 +9,8 @@
 ##
 ## View
 
-<img src="https://github.com/dizzcode/sports-android-test-app/blob/main/screenshots/img.png" width="320" height="600" />
+<img 
+src="https://github.com/dizzcode/sports-android-test-app/blob/main/screenshots/img.png" 
+width="320" 
+height="680" 
+/>
