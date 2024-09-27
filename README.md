@@ -1,1 +1,3 @@
-# sports-android-test-app
+# Sports android test app
+
+dizzcode.com.sports
