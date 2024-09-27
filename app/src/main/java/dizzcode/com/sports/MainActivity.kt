@@ -33,13 +33,13 @@ class MainActivity : ComponentActivity() {
             SportsTheme {
                 val layoutDirection = LocalLayoutDirection.current
                 Surface(
-                    modifier = Modifier
-                        .padding(
-                            start = WindowInsets.safeDrawing.asPaddingValues()
-                                .calculateStartPadding(layoutDirection),
-                            end = WindowInsets.safeDrawing.asPaddingValues()
-                                .calculateEndPadding(layoutDirection)
-                        )
+//                    modifier = Modifier
+//                        .padding(
+//                            start = WindowInsets.safeDrawing.asPaddingValues()
+//                                .calculateStartPadding(layoutDirection),
+//                            end = WindowInsets.safeDrawing.asPaddingValues()
+//                                .calculateEndPadding(layoutDirection)
+//                        )
                 ) {
                     val windowSize = calculateWindowSizeClass(activity = this)
                     SportsApp(
